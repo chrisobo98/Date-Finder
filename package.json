@@ -1,0 +1,28 @@
+{
+  "name": "date-finder",
+  "version": "1.0.0",
+  "description": "compatibility-based \"DateFinder\" application",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisobo98/Date-Finder.git"
+  },
+  "keywords": [
+    "Date",
+    "Finder"
+  ],
+  "author": "Christopher Bermudez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisobo98/Date-Finder/issues"
+  },
+  "homepage": "https://github.com/chrisobo98/Date-Finder#readme"
+}
