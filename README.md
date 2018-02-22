@@ -1,7 +1,11 @@
 # Date-Finder
-Compatibility-based "DateFinder" application survey with 10 questions. Each answer is on a scale of 1 to 5 based on how much the user agrees or disagrees with a question.
+Compatibility-based "DateFinder" application survey 
 
-![Screenshot](burger.png)
+![Screenshot](home.png)
+
+10 questions, each answer is on a scale of 1 to 5 based on how much the user agrees or disagrees with a question 
+
+![Screenshot](questions.png)
 
 ### Prerequisites
 
@@ -27,6 +31,8 @@ Includes:
 
 - Contains an array of objects containing the possible matches
 
+![Screenshot](objects.png)
+
 ## Function
 
 - The app determine the user's most compatible friend using the following as a guide: 
@@ -41,6 +47,8 @@ Includes:
         * The closest match will be the user with the least amount of difference.
 
 - display the result as a modal pop-up.
+
+![Screenshot](match.png)
 
 ## Built With
 
